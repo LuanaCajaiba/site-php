@@ -1,6 +1,6 @@
 <?php
 class CMS {
-var $host;
+var $host; //variáveis serão utilizadas para a interação com o BD
 var $usuario;
 var $senha;
 var $bd;
